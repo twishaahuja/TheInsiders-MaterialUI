@@ -1,10 +1,8 @@
 # Material UI in React
 
-MUI Series can be found under [Youtube Link](https://www.youtube.com/channel/UC3gAVLOVAFMwA0_n4nHtOUA). If you prefer the text version then I have you covered too! Just visit: [Medium Link](https://the-atypical-developer.medium.com/)
-I’ve been working with Material UI for over a year now and I find this library very useful. During that time I learned how to use this library correctly and avoid the pitfalls that may be waiting when building an application using styled components.
+Referred from [Youtube Link](https://www.youtube.com/channel/UC3gAVLOVAFMwA0_n4nHtOUA).
+Exploring Material UI - Grid Layout.
 
-I am creating these videos primarily for people starting out with React and/or MUI, but the following episodes will cover the more complex aspects of MUI, so anyone can learn from it.
-
-# Branch structure
-
-Main repository is basically a MUI Lesson #2 starter pack. The rest of the branches can be found under `lesson-x-info` where x represents the number of the lesson and info will define wether it's a starting point branch or completed lesson (f.e. `lesson-3-starting-point` or `lesson-7-completed`).
+# Problem Statement
+Design a grid layout using Material UI's Grid component with three columns. Make sure that the columns automatically adjust their width based on the screen size, and each column should take up at least 150px but not exceed 1/3 of the container width. Build a layout with a header and a main content area using Material UI's Grid component. The header should span the entire width, and the main content area should have a sidebar on the right, with a width of 25% of the screen. Design a multi-section layout using Material UI's Grid component.
+Create sections for a header, main content, sidebar, and footer. Distribute the main content and sidebar using a 3:1 ratio in a 4-column grid.
