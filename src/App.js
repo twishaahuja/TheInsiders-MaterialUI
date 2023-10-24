@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       {/* <Navbar /> */}
-      {/* You can add any additional components or content here */}
+      {/* You can add any additional components or content here 123*/}
       <PhotoGallery /> {/* Render your PhotoGallery component */}
     </div>
     
